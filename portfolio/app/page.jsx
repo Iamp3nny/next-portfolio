@@ -46,11 +46,11 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <Stats/>
+      <Stats />
     </section>
   );
 };
 
 export default Home;
 
-// 2:12:08
+// 2:33:34
