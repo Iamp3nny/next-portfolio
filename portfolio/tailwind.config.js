@@ -22,13 +22,13 @@ module.exports = {
       primary: "var(--font-jetbrainsMono)",
     },
     extend: {
-        colors: {
-          primary: "#1c1c22",
-          accent: {
-            DEFAULT: "#F94C10",
-            hover: "#00e187",
-          },
-        },      
+      colors: {
+        primary: "#1c1c22",
+        accent: {
+          DEFAULT: "#F94C10",
+          hover: "#fe380e",
+        },
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],
